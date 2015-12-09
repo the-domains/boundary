@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[Boundary Test]]></title>
         <description><![CDATA[Boundary Test]]></description>
-        <link>https://thegrid.ai/boundary/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 20:45:23 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/boundary/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[First Post]]></title>
-            <description><![CDATA[<article><h1>First Post</h1><p>This is the very first post that I've ever done, thanks!</p></article>]]></description>
-            <link>https://thegrid.ai/boundary/first-post/index.html</link>
-            <guid isPermaLink="false">948aa601-8ce0-4274-82c1-e2ccfe7962bc</guid>
-            <pubDate>Wed, 09 Dec 2015 20:45:22 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 09 Dec 2015 20:45:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/boundary/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">0160e27c-09ab-4aa0-a336-0ca786eff983</guid>
             <pubDate>Wed, 09 Dec 2015 20:45:22 GMT</pubDate>
         </item>
