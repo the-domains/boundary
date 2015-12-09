@@ -2,6 +2,7 @@ name: Boundary
 favicon: null
 layout_spectrum: 0.51083
 typography_spectrum: 0.82491
+title: Boundary Test
 cta:
   domain: null
   bucket: null
